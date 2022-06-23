@@ -2,5 +2,5 @@ Integrantes
 - Eugenia Ruiz Ramos
 - Irma López González
 - David Arturo Oaxaca Perez
-- Natalia Meza Barranco
+- Natali Meza Barranco
 - Alberto Olvera Trejo
